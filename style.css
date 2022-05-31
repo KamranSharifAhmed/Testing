@@ -1,0 +1,15 @@
+@font-face {
+    font-family:Pay;
+    src: url(PaytoneOne-Regular.ttf);
+}
+
+h1{
+    color:blueviolet   ;
+    background-color:aqua;
+    font-family: Pay;
+    font-size:xx-large;
+    text-align: center;
+}
+.para {
+text-align: center;
+} 
